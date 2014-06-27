@@ -112,8 +112,12 @@ h3 {
 	font-size: 45px;
 }
 
-ul {
-	font-size: 25px;
+h4 {
+	text-decoration: underline;
+}
+
+nav {
+	font-size: 20px;
 }
 
 #advert-left {text-align: left;float: left;}
